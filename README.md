@@ -8,7 +8,7 @@
 ![.](https://github.com/DeveloperEclipse/Safari-Dev-Tools/blob/main/assets/console.jpeg?raw=true)
 
 **Elements:**  
-![.](https://github.com/DeveloperEclipse/Safari-Dev-Tools/blob/main/assets/elememts.jpeg?raw=true)
+![.](https://github.com/DeveloperEclipse/Safari-Dev-Tools/blob/main/assets/elements.jpeg?raw=true)
 
 **Network:**  
 ![.](https://github.com/DeveloperEclipse/Safari-Dev-Tools/blob/main/assets/network.jpeg?raw=true)
