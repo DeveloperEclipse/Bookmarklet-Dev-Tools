@@ -5,19 +5,20 @@
 ## Preview
 
 **Console:**  
-![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/console.jpeg?raw=true)
+![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/1.jpeg?raw=true)
 
 **Elements:**  
-![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/elements.jpeg?raw=true)
+![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/2.jpeg?raw=true)
 
 **Network:**  
-![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/network.jpeg?raw=true)
+![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/3.jpeg?raw=true)
+![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/4.jpeg?raw=true)
 
 **Sources:**  
-![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/sources.jpeg?raw=true)
+![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/5.jpeg?raw=true)
 
 **Application:**  
-![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/application.jpeg?raw=true)
+![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/6.jpeg?raw=true)
 
 ===============
 
@@ -33,7 +34,7 @@
 ===============
 
 # Setup Bookmarklet Dev Tools
-## I use safari in this setup.
+## I use safari for this tutorial.
 
 1. Go to Safari and search anything.
 2. Click share, add the page as a bookmark.
