@@ -25,8 +25,9 @@
 ## Features
 
 - **Console** – Log, warn, error, info, and execute JavaScript.
-- **Elements** - View HTML elements on the current page.
-- **Network** – Monitor XHR, Fetch, and WebSocket requests with headers, payload, and responses.
+- **Element Selector** - Select elements on the page, mobile friendly.
+- **Elements** - View and Edit HTML elements on the current page.
+- **Network** – Monitor, Copy, or generate code for XHR, Fetch, and WebSocket requests with headers, payload, and responses.
 - **Sources** – View HTML, CSS, and JS files loaded on the page.
 - **Cookies** – View all cookies stored on the current page.
 - **Panel** – Close the panel, reopen it with a draggable gear icon.
