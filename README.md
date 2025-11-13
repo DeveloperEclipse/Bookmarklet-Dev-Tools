@@ -20,6 +20,9 @@
 **Application:**  
 ![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/6.jpeg?raw=true)
 
+**Settings:**  
+![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/7.jpeg?raw=true)
+
 ===============
 
 ## Features
