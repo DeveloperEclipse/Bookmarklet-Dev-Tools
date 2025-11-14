@@ -1,5 +1,5 @@
 # Bookmarklet Dev Tools
-===============
+
 ## Preview
 **Console:**  
 ![.](https://github.com/DeveloperEclipse/Bookmarklet-Dev-Tools/blob/main/assets/1.jpeg?raw=true)
@@ -24,7 +24,7 @@
 - **Settings** – 4 built in themes, adjustable panel size, position, and display options.
 - **Plugins** – Load plugins from URL or run custom JavaScript code, with built in plugin management and API.
 - **Panel** – Draggable floating button to reopen, resizable panel, and persistent settings.
-===============
+
 # Setup Bookmarklet Dev Tools
 ## I use safari for this tutorial.
 1. Go to Safari and search anything.
